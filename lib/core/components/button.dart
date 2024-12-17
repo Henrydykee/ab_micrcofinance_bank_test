@@ -1,7 +1,6 @@
 
 import 'package:ab_micrcofinance_bank_test/core/components/text_holder.dart';
 import 'package:ab_micrcofinance_bank_test/core/constant/color.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class Button extends StatelessWidget {
