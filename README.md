@@ -52,6 +52,3 @@ This is a mobile application designed to showcase a dynamic investment filtering
 5. Run `flutter run`
 
 
-## Demo
-![App Demo](assets/gif/ScreenRecording2024-12-17at5.21.54PM-ezgif.com-video-to-gif-converter.gif)
-
