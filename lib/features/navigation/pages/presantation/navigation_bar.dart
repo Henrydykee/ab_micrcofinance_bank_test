@@ -46,7 +46,7 @@ class _NavigationBarComponentState extends State<NavigationBarComponent>
         bottomNavigationBar: FABBottomAppBar(
           notchedShape: const CircularNotchedRectangle(),
           selectedColor: TestColor.blue,
-          color: TestColor.grey,
+          color: Colors.grey,
           onTabSelected: _selectedTab,
           items: [
             FABBottomAppBarItem(

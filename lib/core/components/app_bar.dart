@@ -45,7 +45,7 @@ class AppBarComponent extends StatelessWidget implements PreferredSize {
       leading: Visibility(
         visible: allowPop ?? false,
         child: GestureDetector(
-          onTap: backbuttonTap ?? () => Navigator.of(context).pop(),
+        //  onTap: backbuttonTap ?? () => Navigator.of(context).pop(),
           child: const Icon(
             Icons.chevron_left,
             color: Colors.black,
